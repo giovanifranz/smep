@@ -6,4 +6,4 @@ Foi desenvolvido um projeto com enfasê em segurança no trabalho, onde era veri
 
 ## Imagens
 
-![Foto da Apresentação do Projeto](https://media-exp1.licdn.com/dms/image/C562DAQEo-8aUff9KmQ/profile-treasury-image-shrink_800_800/0/1601423535247?e=1616706000&v=beta&t=EpEmkmPn5XcIFm8M4-C3QxgEF35ngVVoLvtwz3Tz7Nw)
+![Foto da Apresentação do Projeto](https://media-exp1.licdn.com/dms/image/C562DAQEo-8aUff9KmQ/profile-treasury-image-shrink_800_800/0/1601423535247?e=1624471200&v=beta&t=vaCa_rm9_-lx4I-UgtTtKdLx7Gg9NTIXgm_M_PRgI7Y)
